@@ -17,3 +17,11 @@ https://www.qedev.com/linux/112602.html
 
 ## Logstash 解析Json字符串，删除json嵌套字段 
 https://www.cnblogs.com/yangwenbo214/p/9831030.html
+
+## 下载账户数据集
+https://download.elastic.co/demos/kibana/gettingstarted/accounts.zip
+
+## 下载日志数据集
+https://download.elastic.co/demos/kibana/gettingstarted/logs.jsonl.gz
+
+
